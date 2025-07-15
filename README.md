@@ -1,18 +1,28 @@
-# Hi, I'm Wendy 👋
+<table>
+  <tr>
+    <td width="300">
+      <img src="https://github.com/user-attachments/assets/d47170bc-f6e8-4897-b913-574f843a6f92" width="300" alt="Cat Image" />
+    </td>
+    <td valign="top">
 
-🎓 I'm a student and aspiring **full-stack developer**  
-🌱 Currently learning **React** and building up my frontend skills  
-🔜 Next up: **Node.js**, **Express**, and **REST APIs**
+# *Hi, I'm Wendy*
 
-### 🛠️ Tech I Know
-- HTML, CSS, JavaScript
-- SQL (databases are kinda cool!)
+- I'm a _**Software Engineering Student**_ and aspiring _**full-stack developer**_  
+- Currently learning _**React**_ and building up my frontend skills  
+- What’s Next Up: _**Docker**_, _**TypeScript**_, _**Node.js**_, _**Express**_
 
 
+#### Tech I Know  
 
-![4364d9a73d7d2a62b79b5dc401638b03](https://github.com/user-attachments/assets/d47170bc-f6e8-4897-b913-574f843a6f92)
+<img alt="HTML" height="30" src="https://img.shields.io/badge/HTML-00674F?style=for-the-badge" />
+<img alt="CSS" height="30" src="https://img.shields.io/badge/CSS-00674F?style=for-the-badge" />
+<img alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-00674F?style=for-the-badge" />
+<img alt="SQL" height="30" src="https://img.shields.io/badge/SQL-00674F?style=for-the-badge" />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="auto" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="MySQL" height="30" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
-</div>
+<img alt="Learning React" height="30" src="https://img.shields.io/badge/Learning_React-00674F?style=for-the-badge&logo=react&logoColor=white" />
+<br/>
+<img src="https://github.com/user-attachments/assets/2a6b1fc4-ae14-4576-aa4f-fc532f73e199"  style="width: 130px;"  alt="cat" />
+
+  </tr>
+</table>
+
